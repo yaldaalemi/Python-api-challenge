@@ -50,6 +50,11 @@ Detailed usage instructions for running the code are provided within the Jupyter
 The results of this project include:
 - Scatter plots showcasing the relationship between the maximum temperature and latitude.
   ![Alt Text](output_data/Fig1.png)
-- Linear regression analysis for each relationship.
+- Scatter plots showcasing the relationship between humidity and latitude.
+ ![Alt Text](output_data/Fig2.png)
+- Scatter plots showcasing the relationship between cloudiness and latitude.
+  ![Alt Text](output_data/Fig3.png)
+- Scatter plots showcasing the relationship between wind speed and latitude.
+  ![Alt Text](output_data/Fig4.png)
 - A map displaying cities with humidity as the size of the point, narrowed down based on weather conditions.
 - Hotel information for selected cities on the map.
